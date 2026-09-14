@@ -18,7 +18,6 @@
 
 ```yaml
 background:   Civil-Engineering
-path:         Self-taught, out of curiosity
 approach:     Build small projects at my own pace
 philosophy:   "If it works, understand why. If it breaks, understand why more."
 ```
@@ -80,7 +79,7 @@ A small pet lives in your system tray and speeds up or slows down with your real
 ## `03` &nbsp;Tools I Use
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,js,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js,github&theme=dark" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4px">
